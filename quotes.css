@@ -1,0 +1,46 @@
+#container {
+    position: absolute;
+    left: 45%;
+    text-align: center;
+}
+
+h3 {
+    background-color: #2E9AFE;
+    font-family: tempus sans itc;
+    font-size: 40px;
+}
+
+#quoteHolder {
+    font-family: comic sans ms;
+    font-size: 20px;
+}
+
+#getQuote {
+    width: 150px;
+    height: 60px;
+    background-color: #2E9AFE;
+    font-family: tempus sans itc;
+    font-size: 20px;
+    color: #08088A;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.button:active {
+    box-shadow: 0 6px;
+}
+
+.button:focus {
+    outline: none;
+}
+
+
+footer {
+    position: absolute;
+    top: 300px;
+    left: 35%;
+    font-size: 20px;
+    color: #070719;
+    font-family: tempus sans itc;
+    text-align: center;
+}
